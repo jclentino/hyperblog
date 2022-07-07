@@ -11,3 +11,17 @@ body {
     padding-top: 0;
     border: 1px solid black; 
 }
+
+#cabecera {
+    background-color: blue;
+    color: white;
+    padding: 20px;
+    text-align: left;
+    font-size: 24px;
+    box-shadow: 0 4px 4px 4px grey;
+}
+
+#cabecera #tagline {
+    padding-left: 20px;
+    font-size: 18px;
+}
