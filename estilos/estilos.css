@@ -1,4 +1,13 @@
 body {
+    color: black;
+    margin: 0;
+}
+
+#container {
     text-align: center;
-    color: deeppink;
+    width: 70%;
+    margin: auto;
+    margin-top: 0;  
+    padding-top: 0;
+    border: 1px solid black; 
 }
