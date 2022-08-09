@@ -4,3 +4,4 @@ Blog del curso profesional de git y github en platzi
 
 * comandos basicos
 * comandos intermedios 
+* comandos avanzados 
